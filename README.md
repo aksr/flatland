@@ -26,6 +26,10 @@ Misc
 ----
 Fonts could be bigger (10pt -> 12pt).
 
+License
+-------
+GPLv2
+
 Bugs
 ----
 
